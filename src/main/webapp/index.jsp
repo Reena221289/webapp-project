@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>WELCOME TO MAVEN!</h2>
+<h2>WELCOME TO amazon website!</h2>
 </body>
 </html>
